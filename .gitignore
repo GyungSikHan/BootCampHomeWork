@@ -1,0 +1,76 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.opensdf
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.VC.VC.opendb
+.vscode/
+
+# Ignore C++ Build Artifacts
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.ipa
+*.dSYM
+*.log
+
+# Ignore Unreal Engine-specific files
+*.xcodeproj
+*.xcworkspace
+*.uasset
+*.umap
+*.ubulk
+*.uprojectdirs
+
+# Rider
+.idea/
+*.iml
+*.sln.iml
+
+# Visual Studio
+*.vcxproj*
+*.csproj*
+*.vcxproj.user
+*.sln
+*.sdf
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.obj
+*.pch
+*.idb
+*.ilk
+*.log
+*.rsuser
+*.ruleset
+*.suo
+*.swp
+*.user
+*.userosscache
+*.unsuccessfulbuild
+*.buildlog
+*.ncb
+*.aps
+*.ilk
+*.iobj
+*.ipdb
+
+# Rider specific files
+.idea/
+*.sln.iml
+
+# Unreal Engine auto-generated folders
+*.vs/
+!*.uproject
